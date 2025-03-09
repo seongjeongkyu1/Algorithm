@@ -1,1 +1,1 @@
-# Algorithm (KMU Algolab 3-2)
+# Algorithm Study
